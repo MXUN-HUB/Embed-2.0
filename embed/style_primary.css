@@ -1,0 +1,250 @@
+
+
+body {
+  position: relative;
+width: 1440px;
+height: 3072px;
+
+background: #1B1C1E
+  
+  
+  }
+  
+  canvas {
+    display: block;
+    vertical-align: bottom;
+  }
+  #register{
+    position: absolute;
+left: 45.67%;
+right: 44.39%;
+top: 17.33%;
+bottom: 81.69%;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+
+font-family: Futura Bk BT;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+background: #00FFAA;
+border-radius: 65px;
+
+  }
+  #heading_embedcontrol{
+    position: absolute;
+left: 27.92%;
+right: 27.71%;
+top: 28.84%;
+bottom: 68.65%;
+
+font-family: Futura Bk BT;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+
+color: #00FFAA;
+  }
+  
+  
+  #phrase{
+    position: absolute;
+left: 23.89%;
+right: 23.61%;
+top: 34.11%;
+bottom: 60.94%;
+
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+
+color: #F1F1F1;
+
+  }
+  #embed_description{
+    position: absolute;
+left: 23.89%;
+right: 23.61%;
+top: 43.62%;
+bottom: 51.43%;
+
+font-family: Muli;
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 38px;
+text-align: justify;
+
+color: #747474;
+  }
+  #embed_description_sec{
+    position: absolute;
+left: 23.89%;
+right: 23.61%;
+top: 51.12%;
+bottom: 42.32%;
+color: #747474;
+
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+text-align: justify;
+  }
+  #our_speaker{
+    position: absolute;
+left: 23.89%;
+right: 51.25%;
+top: 62.21%;
+bottom: 35.29%;
+
+font-family: Futura Bk BT;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+
+color: #00FFAA;
+  }
+  #speaker_name{
+    position: absolute;
+left: 22.5%;
+right: 54.38%;
+top: 78.56%;
+bottom: 19.18%;
+
+font-family: Futura Bk BT;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 58px;
+text-align: justify;
+
+color: #F1F1F1;
+
+  }
+  #speaker_designation{
+    position: absolute;
+left: 22.5%;
+right: 40.9%;
+top: 80.83%;
+bottom: 16.34%;
+
+font-family: Futura Bk BT;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: justify;
+
+color: #00FFAA;
+
+  }
+  #speaker_1{
+    position: absolute;
+    left: 53.47%;
+    right: 14.51%;
+    top: 69.79%;
+    bottom: 28.71%;
+    
+    font-family: Futura Bk BT;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    
+    color: #00FFAA;
+    
+
+  }
+  #speaker_2{
+    position: absolute;
+    left: 53.47%;
+    right: 14.51%;
+    top: 71.97%;
+    bottom: 26.56%;
+    
+    font-family: Futura Bk BT;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    
+    color: #00FFAA;
+
+  }
+  #speaker_3{
+    position: absolute;
+left: 53.47%;
+right: 14.51%;
+top: 74.15%;
+bottom: 23.63%;
+
+font-family: Futura Bk BT;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-align: justify;
+
+color: #00FFAA;
+
+
+  }
+  #speaker_4{
+    position: absolute;
+    left: 53.47%;
+    right: 14.51%;
+    top: 77.05%;
+    bottom: 21.45%;
+    
+    font-family: Futura Bk BT;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    
+    color: #00FFAA
+
+  }
+  #speaker_photo{
+    position: absolute;
+left: 22.5%;
+right: 54.24%;
+top: 67.64%;
+bottom: 21.45%;
+
+  }
+  #embed logo{
+    position: absolute;
+left: 10.83%;
+right: 77.36%;
+top: 1.14%;
+bottom: 96.91%;
+
+  }
+  #cas logo{
+    position: absolute;
+left: 84.31%;
+right: 11.32%;
+top: 1.14%;
+bottom: 96.91%;
+  }
+  
