@@ -2,7 +2,8 @@ from flask import Flask, request, render_template, url_for
 from flask_mail import Mail, Message
 import json
 
-
+x=3
+x=0
 with open("info.json", "r") as c:
     parameters = json.load(c)["parameters"]
 
